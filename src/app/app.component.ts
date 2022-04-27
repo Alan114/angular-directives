@@ -21,4 +21,6 @@ export class AppComponent {
   });
 
   onlyOdd = true;
+
+  value = 10;
 }
